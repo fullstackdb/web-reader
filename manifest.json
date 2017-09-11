@@ -1,0 +1,11 @@
+{
+  "name" : "Web reader",
+  "version" : "0.1",
+  "description" : "Read article more convenient. Shows only a main content with settings gor them.",
+  "permissions": [ "content", "article", "reader"],
+  "browser_action": {
+     "default_icon": "contentSettings.png",
+     "default_popup": "popup.html"
+  },
+  "manifest_version": 2
+}

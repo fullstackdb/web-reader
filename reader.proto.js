@@ -1892,4 +1892,5 @@ ReaderArticleFinder.prototype = {
         return info;
     }
 };
-var ReaderArticleFinderJS = new ReaderArticleFinder(document);
+
+
